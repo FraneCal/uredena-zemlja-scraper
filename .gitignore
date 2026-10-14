@@ -1,0 +1,13 @@
+# Playwright persistent browser profile / cache
+playwright_cache/
+
+# Downloaded extracts (contain owner data) - never commit
+result_pdfs/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
